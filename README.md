@@ -19,21 +19,6 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 - **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-### 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
-
-**Datasets**: Access to the project dataset (csv files).
-**Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-
-### 🚀 Project Requirements
-Building the Data Warehouse (Data Engineering)
-
 ### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
